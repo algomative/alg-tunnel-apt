@@ -5,9 +5,9 @@ Maintainer: Algomative <dev@algomative.com>
 Depends: curl
 Filename: dists/stable/main/binary-arm64/alg-tunnel_1.0.14_arm64.deb
 Size: 4313678
-MD5sum: 63d83291686bcca679baaf365ba45b2e
-SHA1: 02eab7d63e7a74280c949aec24a6201afea30007
-SHA256: ae1bc07a5042e28e13491e8e875d71c310a8491d944365ffcff5a1a3d8753e23
+MD5sum: 469f88931dace0cde25bbbce7820c0b3
+SHA1: c6a2446c9d8afcbc5babfa64ab8b334be7126c8b
+SHA256: 6fca65fc25fb558a78d0bf77e421441c27f2896f6cffa87415b674b12d1673cc
 Section: net
 Priority: optional
 Description: CLI tool to expose local ports over secure tunnel
