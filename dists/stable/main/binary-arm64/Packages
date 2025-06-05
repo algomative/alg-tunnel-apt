@@ -4,10 +4,10 @@ Architecture: arm64
 Maintainer: Algomative <dev@algomative.com>
 Depends: curl
 Filename: ./alg-tunnel_1.0.11_arm64.deb
-Size: 1024
-MD5sum: 4000b7bcfcf4d4f66665c54b52f2e26b
-SHA1: 762317d1905a62ad5b1dc5b90d0f9d50f737e892
-SHA256: bb2afbbaa993fa679e0b87a578e3ba362d3ed9772f0345cc7b461362f357e7a5
+Size: 1026
+MD5sum: cde3841926fd2cb7d920dcd4597c663e
+SHA1: ce0e396c4b14ee36ff05ba7eae5bfe8ba63ba53d
+SHA256: c2509b7e0955d58b1f03dae06e1ecc12452263a72592e298c7251071de90a553
 Section: net
 Priority: optional
 Description: CLI tool to expose local ports over secure tunnel
