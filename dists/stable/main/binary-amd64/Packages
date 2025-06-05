@@ -1,13 +1,13 @@
 Package: alg-tunnel
-Version: 1.0.12
+Version: 1.0.13
 Architecture: amd64
 Maintainer: Algomative <dev@algomative.com>
 Depends: curl
-Filename: alg-tunnel_1.0.12_amd64.deb
+Filename: dists/stable/main/binary-amd64/alg-tunnel_1.0.13_amd64.deb
 Size: 1028
-MD5sum: 3614fbf15b2ea07bf49f47cc2f4cd497
-SHA1: 8a1cd318f7ac78937bbf6b86ad1fbef77cb1679c
-SHA256: a75b631ecd3518ac27e2edc78c1e83da9d18a562aa0cbe655881c43ef8a3e2ef
+MD5sum: b839321c4a86ed8cc09f178e31a305ca
+SHA1: 7b7d6ae838d80e43dd79475a4e90ca3186e12949
+SHA256: 062b0c27ff4f1ff2c363b1716fc090da9b1bb3a5cf033500f5f6f7ca9e9494c6
 Section: net
 Priority: optional
 Description: CLI tool to expose local ports over secure tunnel
