@@ -19,6 +19,8 @@ Expose your local server to the internet using a static subdomain over a secure 
 Run this once to add the APT repo:
 
 ```bash
-echo "deb [trusted=yes] https://algomative.github.io/alg-tunnel-apt stable main" | sudo tee /etc/apt/sources.list.d/alg-tunnel.list
+echo "deb [trusted=yes] https://algomative.github.io/alg-tunnel-apt/apt stable main" | sudo tee /etc/apt/sources.list.d/alg-tunnel.list
 sudo apt update
 sudo apt install alg-tunnel
+```
+
