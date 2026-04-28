@@ -1,0 +1,28 @@
+Origin: algomative.github.io
+Label: alg-tunnel
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Date: Tue, 28 Apr 2026 12:27:32 UTC
+MD5Sum:
+ 6d08d09fe7ca5bbf3fb9f51a27411f1e              544 main/binary-amd64/Packages
+ 95624d5675ac06cd8a18dc35c49513a5              407 main/binary-amd64/Packages.gz
+ a245328259a48a01225470f1a7948d8a          4858508 main/binary-amd64/alg-tunnel_1.0.14_amd64.deb
+ 6a05d4dde412cfe6c07550c1e9971722              544 main/binary-arm64/Packages
+ 6fd6f21ef23ee7be82d32abf32655d4c              405 main/binary-arm64/Packages.gz
+ 469f88931dace0cde25bbbce7820c0b3          4313678 main/binary-arm64/alg-tunnel_1.0.14_arm64.deb
+SHA1:
+ e7bf21554af18ecaa7d040c5aa6e45881f1f3203              544 main/binary-amd64/Packages
+ 1a89a937f48ce93c7a0cb904b144d5a8289b41ec              407 main/binary-amd64/Packages.gz
+ b9aec4d67f76b15d996d53fa0912d63b3a85f37d          4858508 main/binary-amd64/alg-tunnel_1.0.14_amd64.deb
+ 0b49aba0840637205f5b8a8042cb4e4efc6768cd              544 main/binary-arm64/Packages
+ 5e7e1d701619403bbd4dbba39de62ca9934e8218              405 main/binary-arm64/Packages.gz
+ c6a2446c9d8afcbc5babfa64ab8b334be7126c8b          4313678 main/binary-arm64/alg-tunnel_1.0.14_arm64.deb
+SHA256:
+ 3ab57c55458aff1d0c735d8547be61d8e2008914dd4a3b9fe30215987f0ef5ec              544 main/binary-amd64/Packages
+ a70f3520646abb535723a83018c89a70a01e1ebb2b5be62e0a45d44932f31d1b              407 main/binary-amd64/Packages.gz
+ e6fcba520e52d81cca78213fea44dbbe5011e4505ec188664c3f1785758302f0          4858508 main/binary-amd64/alg-tunnel_1.0.14_amd64.deb
+ 4bf42be2713a62a8d1f360e9ccf4fedd8c95e25661b744d866009e3a14acbbbe              544 main/binary-arm64/Packages
+ a603a356fea37f2d22a3b1311f35e611e32f7364d10410928c8ff10989ec059f              405 main/binary-arm64/Packages.gz
+ 6fca65fc25fb558a78d0bf77e421441c27f2896f6cffa87415b674b12d1673cc          4313678 main/binary-arm64/alg-tunnel_1.0.14_arm64.deb
